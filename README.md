@@ -1,11 +1,11 @@
-## Nadir Soares da Silva Filho
+# Nadir Soares da Silva Filho
 
 - 🔭 Estudante.
 
-<div>
+<div style="display: flex">
   <a href="https://github.com/NadirFi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NadirFi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirFi&layout=compact&langs_count=16&theme=merko"/>
+  <img height="50%" width = "60%" src="https://github-readme-stats.vercel.app/api?username=NadirFi&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="50%" width= "60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadirFi&layout=compact&langs_count=16&theme=merko"/>
 </div>
 
 <div style="display: flex justify-content: space-between"><br>
@@ -19,7 +19,4 @@
   <a href="https://www.linkedin.com/in/nadir-filho-427981247" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <br><br>
-
-![Snake animation](https://github.com/NadirFi/NadirFi/blob/output/github-contribution-grid-snake.svg)
-
 </div>
